@@ -11,6 +11,7 @@ namespace Teste_Git_2
         static void Main(string[] args)
         {
             Console.WriteLine("Inicio do git");
+            Console.WriteLine("Essa está sendo nossa primeira aula de git github");
         }
     }
 }
